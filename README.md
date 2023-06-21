@@ -1,4 +1,4 @@
-# 👋 Firas Roggai
+# 🪂 Firas Roggai
 **`Front-End developer`**
 <br>
 <br>
