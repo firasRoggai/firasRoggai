@@ -4,7 +4,7 @@
 <a target="_blank" href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<iframe src="https://giphy.com/embed/0luWy8p6oKImZt41tz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-0luWy8p6oKImZt41tz">via GIPHY</a></p>
+<img src="https://giphy.com/embed/0luWy8p6oKImZt41tz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 <!--
 **firasRoggai/firasRoggai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
