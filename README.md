@@ -7,12 +7,12 @@ Hello, I'm Firas, a 19-year-old Computer Science student from Algeria. As a self
 I'm intrested in making practicaland useful projects , as well as anything that could challenge my skills and introduce me to new concepts.
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.facebook.com/profile.php?id=100020563144969">
+<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:firasreggai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/users/573895146588864525"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <div align="center" >
