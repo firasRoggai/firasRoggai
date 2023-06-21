@@ -1,5 +1,6 @@
 # 👋 Firas Roggai
 **`Front-End developer`**
+<br>
 Hello, I'm Firas, a 19-year-old Computer Science student from Algeria. As a self-taught programmer, I have a passion for web development that began during my high school years. Exploring the intricacies of graph theory, diving into captivating books, and delving into the world of science are some of my favorite pastimes.
 
 Driven by a natural curiosity, I am particularly drawn to problem-solving challenges. I find immense satisfaction in unraveling complex issues and creating practical and meaningful projects. Combining my skills and knowledge, I strive to make a positive impact through my work.
