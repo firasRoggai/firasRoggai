@@ -5,7 +5,7 @@
 <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <div align="center" >
-<img  src="https://i.ibb.co/Qj1yDt1/ezgif-com-gif-maker.gif" width="300" height="300">
+<img  src="https://i.ibb.co/Qj1yDt1/ezgif-com-gif-maker.gif" width="200" height="200">
 </div>
 
 --- 
