@@ -1,9 +1,11 @@
 # 👋 Firas Roggai
 **`Front-End developer`**
 <br>
-Hello, I'm Firas, a 19-year-old Computer Science student from Algeria. As a self-taught programmer, I have a passion for web development that began during my high school years. Exploring the intricacies of graph theory, diving into captivating books, and delving into the world of science are some of my favorite pastimes.
+<br>
+Hello, I'm Firas, a 19-year-old Computer Science student from Algeria. As a self-taught programmer, I have a passion for web development that began during my high school years. Exploring captivating books and diving into a wide range of projects are some of my favorite pastimes.
 
-Driven by a natural curiosity, I am particularly drawn to problem-solving challenges. I find immense satisfaction in unraveling complex issues and creating practical and meaningful projects. Combining my skills and knowledge, I strive to make a positive impact through my work.
+I'm intrested in making practicaland useful projects , as well as anything that could challenge my skills and introduce me to new concepts.
+
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
