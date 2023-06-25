@@ -15,9 +15,6 @@ I'm intrested in making practical and useful projects , as well as anything that
 <a href="https://discord.com/users/573895146588864525"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<div align="center" >
-<img  src="https://i.ibb.co/Qj1yDt1/ezgif-com-gif-maker.gif" width="200" height="200">
-</div>
 
 ---
 
