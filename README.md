@@ -4,7 +4,7 @@
 <br>
 Hello, I'm Firas, a 19-year-old Computer Science student from Algeria. As a self-taught programmer, I have a passion for web development that began during my high school years. Exploring captivating books and diving into a wide range of projects are some of my favorite pastimes.
 
-I'm intrested in making practicaland useful projects , as well as anything that could challenge my skills and introduce me to new concepts.
+I'm intrested in making practical and useful projects , as well as anything that could challenge my skills and introduce me to new concepts.
 
 <p align="center">
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100020563144969">
