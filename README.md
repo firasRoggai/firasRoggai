@@ -2,7 +2,7 @@
 **`Front-End developer`**
 <br>
 <br>
-Hello, I'm Firas, a 19-year-old Computer Science student from Algeria. As a self-taught programmer, I have a passion for web development that began during my high school years. Exploring captivating books and diving into a wide range of projects are some of my favorite pastimes.
+Hello, I'm Firas, a 20-year-old Computer Science student from Algeria. As a self-taught programmer, I have a passion for web development that began during my high school years. Exploring captivating books and diving into a wide range of projects are some of my favorite pastimes.
 
 I'm intrested in making practical and useful projects , as well as anything that could challenge my skills and introduce me to new concepts.
 
