@@ -21,7 +21,7 @@ I'm intrested in making practical and useful projects , as well as anything that
 ### 🧰 Languages and Tools
 
 ###
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
